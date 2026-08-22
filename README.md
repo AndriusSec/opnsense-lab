@@ -1,5 +1,5 @@
 # Homelab OPENSense Firewall Configuration
-Homelab tinklo infrastruktūra, pastatyta ant OPNsense firewall/router'io, veikiančio kaip virtuali mašina Proxmox VE hipervizoriuje, su vienu fiziniu tinklo portu ir VLAN segmentacija.
+Homelab tinklo infrastruktūra sukonfigūruota OPNsense firewall/router'io, veikiančio kaip virtuali mašina Proxmox VE hipervizoriuje, su vienu fiziniu tinklo portu ir VLAN segmentacija.
 
 Apžvalga
 Šis projektas parodo, kaip sukurti saugų, segmentuotą namų tinklą naudojant tik vieną fizinį Ethernet portą serveryje, be papildomos tinklo plokštės ar valdomo switch'o. Visi sukurti VLAN'ai egzistuoja Proxmox viduje, ant virtualaus VLAN-aware tilto (vmbr1), o OPNsense maršrutizuoja ir filtruoja srautą.
