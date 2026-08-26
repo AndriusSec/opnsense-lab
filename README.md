@@ -12,4 +12,4 @@ Pagrindiniai tikslai:
   4. Išlaikyti galimybę saugiai eksperimentuoti (tobulinti žinias), nesugadinant pagrindinio namų tinklo srauto.
    
 Architektūra
-<img width="7720" height="11045" alt="Untitled-2026-08-18-1109" src="https://github.com/user-attachments/assets/fe5ec956-ec31-4904-9923-2b12be3007a7" />
+[<img width="7720" height="11045" alt="Untitled-2026-08-18-1109" src="https://github.com/user-attachments/assets/fe5ec956-ec31-4904-9923-2b12be3007a7" />](https://github.com/AndriusSec/opnsense-lab/blob/main/opnsense-network-topology.png)
